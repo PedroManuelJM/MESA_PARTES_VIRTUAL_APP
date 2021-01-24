@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/MESA_PARTES_VIRTUAL_APP/static/css/main.f34aa8a3.chunk.css",
-    "main.js": "/MESA_PARTES_VIRTUAL_APP/static/js/main.bd6c04e6.chunk.js",
-    "main.js.map": "/MESA_PARTES_VIRTUAL_APP/static/js/main.bd6c04e6.chunk.js.map",
-    "runtime-main.js": "/MESA_PARTES_VIRTUAL_APP/static/js/runtime-main.a34c914c.js",
-    "runtime-main.js.map": "/MESA_PARTES_VIRTUAL_APP/static/js/runtime-main.a34c914c.js.map",
+    "main.js": "/MESA_PARTES_VIRTUAL_APP/static/js/main.c81d7a80.chunk.js",
+    "main.js.map": "/MESA_PARTES_VIRTUAL_APP/static/js/main.c81d7a80.chunk.js.map",
+    "runtime-main.js": "/MESA_PARTES_VIRTUAL_APP/static/js/runtime-main.f84e66be.js",
+    "runtime-main.js.map": "/MESA_PARTES_VIRTUAL_APP/static/js/runtime-main.f84e66be.js.map",
     "static/css/2.150d169a.chunk.css": "/MESA_PARTES_VIRTUAL_APP/static/css/2.150d169a.chunk.css",
-    "static/js/2.009503c3.chunk.js": "/MESA_PARTES_VIRTUAL_APP/static/js/2.009503c3.chunk.js",
-    "static/js/2.009503c3.chunk.js.map": "/MESA_PARTES_VIRTUAL_APP/static/js/2.009503c3.chunk.js.map",
-    "static/js/3.352dec12.chunk.js": "/MESA_PARTES_VIRTUAL_APP/static/js/3.352dec12.chunk.js",
-    "static/js/3.352dec12.chunk.js.map": "/MESA_PARTES_VIRTUAL_APP/static/js/3.352dec12.chunk.js.map",
+    "static/js/2.c33da877.chunk.js": "/MESA_PARTES_VIRTUAL_APP/static/js/2.c33da877.chunk.js",
+    "static/js/2.c33da877.chunk.js.map": "/MESA_PARTES_VIRTUAL_APP/static/js/2.c33da877.chunk.js.map",
+    "static/js/3.6097ab2f.chunk.js": "/MESA_PARTES_VIRTUAL_APP/static/js/3.6097ab2f.chunk.js",
+    "static/js/3.6097ab2f.chunk.js.map": "/MESA_PARTES_VIRTUAL_APP/static/js/3.6097ab2f.chunk.js.map",
     "index.html": "/MESA_PARTES_VIRTUAL_APP/index.html",
     "static/css/2.150d169a.chunk.css.map": "/MESA_PARTES_VIRTUAL_APP/static/css/2.150d169a.chunk.css.map",
     "static/css/main.f34aa8a3.chunk.css.map": "/MESA_PARTES_VIRTUAL_APP/static/css/main.f34aa8a3.chunk.css.map",
-    "static/js/2.009503c3.chunk.js.LICENSE.txt": "/MESA_PARTES_VIRTUAL_APP/static/js/2.009503c3.chunk.js.LICENSE.txt",
+    "static/js/2.c33da877.chunk.js.LICENSE.txt": "/MESA_PARTES_VIRTUAL_APP/static/js/2.c33da877.chunk.js.LICENSE.txt",
     "static/media/index.css": "/MESA_PARTES_VIRTUAL_APP/static/media/escribir.b07dc90c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a34c914c.js",
+    "static/js/runtime-main.f84e66be.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.009503c3.chunk.js",
+    "static/js/2.c33da877.chunk.js",
     "static/css/main.f34aa8a3.chunk.css",
-    "static/js/main.bd6c04e6.chunk.js"
+    "static/js/main.c81d7a80.chunk.js"
   ]
 }
