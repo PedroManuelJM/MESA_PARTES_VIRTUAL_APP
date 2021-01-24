@@ -8,6 +8,7 @@ import 'bootstrap/dist/js/bootstrap.bundle';
 import firebase from 'firebase';
 import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
+import { HashRouter,Route, Switch} from "react-router-dom";
 
 firebase.initializeApp({
   apiKey: "AIzaSyDQABJCfmJGDqUFmxBvnSJX0jGy4TktQME",
@@ -20,10 +21,14 @@ firebase.initializeApp({
 
 ReactDOM.render(
   <React.StrictMode>
+  <HashRouter  basename={process.env.PUBLIC_URL + "/"}>
     <Navbar/>
-    <App />
-    <Footer />
-  </React.StrictMode>,
+    <Switch>
+      <Route exact path="/" component={App}/>
+    </Switch>
+    <Footer/>
+  </HashRouter>
+</React.StrictMode>,
   document.getElementById('root')
 );
 
