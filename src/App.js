@@ -6,6 +6,7 @@ import gmail from './assets/buscar.png';
 import swal from 'sweetalert'; /* importando sweealert */
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'; // icon 
 import { faTimesCircle,faCheckCircle,faFileAlt,faUser,faAddressCard} from '@fortawesome/free-solid-svg-icons'; //icon 
+import { gsap } from "gsap";
 class App extends Component {
   constructor() {
     super();
@@ -201,6 +202,22 @@ class App extends Component {
     }
   }
   render() {
+    // animación 
+    let tl = gsap.timeline({ repeat: -1, repeatDelay: 1 });
+    tl.to('#titulo', {
+            duration: 2,
+            x: 120,
+            ease: 'linear'
+   });
+   tl.to('#logo', {
+   duration: 2,
+   rotate: 360
+   });
+   tl.to('#logo-github', {
+    duration: 2,
+    rotate: 360
+   });
+
     return (
       <section id="inicioSesion">
         <div className="container">
