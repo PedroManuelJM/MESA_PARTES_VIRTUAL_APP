@@ -11,3 +11,57 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#nav-color {
+
+  background: #3a7bd5;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3a6073, #3a7bd5);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3a6073, #3a7bd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  
+}  
+  
+#inicioSesion{
+  background: url('./assets/escribir.png') no-repeat center center fixed;
+  background-size: cover;
+}
+#footer{
+  background: #3a7bd5;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3a6073, #3a7bd5);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3a6073, #3a7bd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+.padded{
+  padding-top: 15px;
+  padding-bottom:12px;
+}
+.separar{
+  padding-top:52px;
+}
+
+
+.container{
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.jumbotron {
+  background-color:transparent !important;
+}
+.texto{
+  font-family: 'Roboto', Arial, sans-serif;
+}
+.lead{
+    font-size: 1.75rem !important;
+}
+.navbar{
+padding:0px !important;
+}
+
+.imgRedonda {
+	width: 48px;
+	height:48px;
+	border-radius: 50px;
+	border: 5px solid #eef3f5;
+	
+}
