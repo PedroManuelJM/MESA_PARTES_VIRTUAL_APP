@@ -217,9 +217,9 @@ class App extends Component {
     duration: 2,
     rotate: 360
    });
-
+   
     return (
-      <section id="inicioSesion">
+      <section id="inicioSesion padding">
         <div className="container">
           <div className="row">
             <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
