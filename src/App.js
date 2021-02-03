@@ -141,7 +141,7 @@ class App extends Component {
         </div> 
         <div className="card col">
           <div className="container">
-               <br />
+               <br /> <br /> <br /> 
               <strong className="" style={{ color: "#004C4C" }} >¡Hola, <FontAwesomeIcon className="fa-icon" icon={faUser}/> {this.state.user.displayName}!</strong>
               <button onClick={this.handleLogout} className="btn btn-danger" style={{ float: "right" }}> <FontAwesomeIcon className="fa-icon" icon={faTimesCircle}/> Salir</button> 
           </div> 
@@ -219,8 +219,8 @@ class App extends Component {
    });
    
     return (
-      <section id="inicioSesion padding">
-        <div className="container">
+      <section id="inicioSesion">
+        <div className="container" style={{padding:"150px"}}>
           <div className="row">
             <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
             </div>
