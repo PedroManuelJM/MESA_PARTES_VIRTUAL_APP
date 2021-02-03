@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MESA_PARTES_VIRTUAL_APP/static/css/main.8f1a33ff.chunk.css",
-    "main.js": "/MESA_PARTES_VIRTUAL_APP/static/js/main.19a36af4.chunk.js",
-    "main.js.map": "/MESA_PARTES_VIRTUAL_APP/static/js/main.19a36af4.chunk.js.map",
+    "main.js": "/MESA_PARTES_VIRTUAL_APP/static/js/main.86045c29.chunk.js",
+    "main.js.map": "/MESA_PARTES_VIRTUAL_APP/static/js/main.86045c29.chunk.js.map",
     "runtime-main.js": "/MESA_PARTES_VIRTUAL_APP/static/js/runtime-main.f84e66be.js",
     "runtime-main.js.map": "/MESA_PARTES_VIRTUAL_APP/static/js/runtime-main.f84e66be.js.map",
     "static/css/2.150d169a.chunk.css": "/MESA_PARTES_VIRTUAL_APP/static/css/2.150d169a.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.c33da877.chunk.js",
     "static/css/main.8f1a33ff.chunk.css",
-    "static/js/main.19a36af4.chunk.js"
+    "static/js/main.86045c29.chunk.js"
   ]
 }
